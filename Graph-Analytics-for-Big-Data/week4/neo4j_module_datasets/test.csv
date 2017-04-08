@@ -1,0 +1,15 @@
+Source,Target,distance
+A,C,3
+B,D,5
+C,J,2
+D,E,4
+E,G,4
+F,A,5
+G,D,1
+H,J,5
+L,E,8
+J,F,7
+D,C,3
+A,L,6
+C,B,7
+G,P,4
