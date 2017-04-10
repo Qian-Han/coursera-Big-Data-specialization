@@ -1,0 +1,24 @@
+node {
+       size: 5px;
+       text-mode: hidden;
+       z-index: 1;
+       fill-mode: dyn-plain;
+    }
+    node.metro {
+        fill-color: blue;
+    }
+    node.country {
+        fill-color: red;
+        size: 10px;
+    }
+    node.continent {
+        fill-color: green;
+        size: 15px;
+    }
+
+edge {
+       shape: line;
+       fill-color: black;
+       arrow-size: 2px, 1px;
+       z-index: 0;
+}
